@@ -11,14 +11,18 @@
 ### Testing :
    > - **Download or clone using url** : "https://github.com/PPL-IIITA/ppl-assignment-iit2015008.git"                                    
    > - extract ppl-assignment-iit2015008-master.zip  
-   > - ```cd ppl-assignment-iit2015008-master.zip/```
-   > - ```cd AssignmentQues1/```
+   > <pre><code>cd ppl-assignment-iit2015008-master.zip/
+   </pre></code>
+   > <pre><code>cd AssignmentQues1/
+   </pre></code>
    > - **On Command Promt** : ``` java -jar "AssignmentQues1.jar ```
-   > - ```cd AssignmentQues2/```
+   > <pre><code>cd AssignmentQues2/
+   </pre></code>
    > - **On Command Promt** : ``` java -jar "AssignmentQues2.jar ```
    
 ### Logs :
-   > - ```cd AssignmentQues1/```    
+   > <pre><code>cd AssignmentQues1/
+   </pre></code>
    > - _logs_couple.txt_  will be cread after executing jar file
    >  <pre><code> cd AssignmentQues2/
 </code></pre>     
@@ -27,7 +31,9 @@
    
 ### Documentation :
    > - Download all the html files access offline.
-   > - ```cd AssignmentQues1/dist/javadoc/index.html```
-   > - ```cd AssignmentQues2/dist/javadoc/index.html``` 
+   > <pre><code>cd AssignmentQues1/dist/javadoc/index.html
+   </pre></code>
+   >  <pre><code>cd AssignmentQues2/dist/javadoc/index.html
+   </pre></code>
    
    
